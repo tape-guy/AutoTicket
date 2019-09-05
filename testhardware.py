@@ -1,5 +1,4 @@
 # Update (HIS) Ticket Script
-# Chris Frankenfield 09/03/19
 
 import time
 import sys
